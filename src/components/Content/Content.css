@@ -1,0 +1,27 @@
+.content-body {
+    height: 300px;
+    background-color:white;
+    box-sizing: border-box;
+}
+
+.dis-img {
+    height: 400px;
+    width: auto;
+}
+
+#landing-image {
+    background:url('../../assets/images/Masonry-Work.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#landing-image h1 {
+    color: orangered;
+    font-weight: bolder;
+}
+
+#landing-image hr {
+    box-shadow: 0 0 10px 5px orangered;
+    width:30%;
+}
