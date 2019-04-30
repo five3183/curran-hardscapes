@@ -1,3 +1,15 @@
+#nav-container nav .navbar-brand {
+  color:orangered;
+  background-color: white;
+  text-shadow: 2px 2px lightgrey;
+  font-weight: 600;
+  font-size: 25px;
+}
 #nav-container .navbar a{
   color:orangered;
+}
+#icon {
+  height:50px;
+  width:50px;
+  margin-right: 5px;
 }

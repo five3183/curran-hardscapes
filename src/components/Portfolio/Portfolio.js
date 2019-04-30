@@ -6,7 +6,9 @@ export default class Portfolio extends Component {
   render() {
     return (
       <div className="container">
-        <h1>This is the portfolio component</h1>
+        <h2>Check out these before and after pictures!</h2>
+        <br />
+        <br />
         <div className="row justify-content-center">
           <div className="col-6">
           <h3>Before</h3>

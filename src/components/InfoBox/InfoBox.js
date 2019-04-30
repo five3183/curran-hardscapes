@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import './InfoBox.css'
+import { Link } from 'react-router-dom'
 
 export default class InfoBox extends Component {
   render() {
@@ -8,7 +9,9 @@ export default class InfoBox extends Component {
         <div className="row align-items-center">
           <div className="col">
             <div className="row align-items-center justify-content-center">
-              <a href="#"><h3>Request Free Estimate</h3></a>
+              <Link to="/contact">
+                <h3>Request Free Estimate</h3>
+              </Link>
             </div>
             {/* <h2>Links</h2>
             <ul className="list-group">
@@ -47,7 +50,7 @@ export default class InfoBox extends Component {
                 <span>cwddwc2486@gmail.com</span>
               </li>
               <li className="list-group-item d-flex">
-                <i class="fab fa-facebook-square mr-2"></i>
+                <i className="fab fa-facebook-square mr-2"></i>
                 <a href="https://www.facebook.com/Curranshardscapesandmasonry/"><span>Like us on Facebook!</span></a>
               </li>
             </ul>
