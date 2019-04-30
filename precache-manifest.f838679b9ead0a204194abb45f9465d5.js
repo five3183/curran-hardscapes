@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d675c49c0ab8e4a423194c448624b93",
+    "revision": "7f27f7a148a5ecf77c0a6ca7c79ced96",
     "url": "/curran-hardscapes/index.html"
   },
   {
-    "revision": "e25bd0a1fc353bb1aeca",
+    "revision": "81cb52442bac339e787c",
     "url": "/curran-hardscapes/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "105929e8f8fb80aeece6",
-    "url": "/curran-hardscapes/static/css/main.99cd274c.chunk.css"
+    "revision": "67032f808c7fdda333a7",
+    "url": "/curran-hardscapes/static/css/main.ce30e0ef.chunk.css"
   },
   {
-    "revision": "e25bd0a1fc353bb1aeca",
-    "url": "/curran-hardscapes/static/js/2.aa0e0809.chunk.js"
+    "revision": "81cb52442bac339e787c",
+    "url": "/curran-hardscapes/static/js/2.16c3ebdb.chunk.js"
   },
   {
-    "revision": "105929e8f8fb80aeece6",
-    "url": "/curran-hardscapes/static/js/main.fede5d2b.chunk.js"
+    "revision": "67032f808c7fdda333a7",
+    "url": "/curran-hardscapes/static/js/main.06be3323.chunk.js"
   },
   {
     "revision": "ce6040355fe707a23693",
     "url": "/curran-hardscapes/static/js/runtime~main.36a2e82c.js"
+  },
+  {
+    "revision": "835eb164021d1568185b3cd5646cf22b",
+    "url": "/curran-hardscapes/static/media/Capture1.835eb164.png"
   },
   {
     "revision": "73cf50ccf6c73c203e770eecef001d38",
@@ -34,5 +38,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b4337cd59003230c38d40b51102f12f0",
     "url": "/curran-hardscapes/static/media/before.b4337cd5.jpg"
+  },
+  {
+    "revision": "884ae8344750b30b8ea5a0fa6efcf9c9",
+    "url": "/curran-hardscapes/static/media/wall.884ae834.jpg"
   }
 ]);
